@@ -1,28 +1,27 @@
 # MyGfi
 
-Pour la réussite de du projet, nous avons décidé de developper une WebApp, nous avons utilisé le language Javascript via Nodejs, cette technologie permet des requêtes rapides et une fluidité parfaite pour une application mobile ou WebApp.
-Pour la gestions des "vues" nous avons utilisé le moteur de template Jade.
+Pour réaliser notre Webapp, nous avons décidé d'utiliser la technologie Nodejs qui nous semblait la plus appropriée.
+Cette technologie permet d'executer du Javascript coté serveur avec une rapidité considérable. Cela permet également d'unifier les langages dans l'application étant donné que le Javascript represente l'intégralité du coté client.
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Moteur de template
 
-### Prerequisites
+Pour une efficience accru, nous avons utilisé le moteur de template Jade, ce moteur offre une nouvelle façon d'écrire un marquage, avec un certain nombre d'avantages par rapport au HTML.
 
-What things you need to install the software and how to install them
+### Framework Express
+
+Nous avons utilisé le Framework Express qui apporte une couche de fonctionnalités robuste pour les applications mobiles sans masquer celles de Nodejs, l'avantage de cette infrastructure est qu'elle se veux minimaliste et flexible.
 
 ```
 Give examples
 ```
 
-### Installing
+### Installation
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+A l'aide du gestionnaire de paquet npm, nous avaons généré un package.json qui permet d'installer automatiquement toute les dépendances du projet en appelant la commande :
 
 ```
-Give the example
+npm install
 ```
 
 And repeat
