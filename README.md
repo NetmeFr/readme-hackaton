@@ -1,6 +1,7 @@
 # MyGfi
 
-One Paragraph of project description goes here
+Pour la réussite de du projet, nous avons décidé de developper une WebApp, nous avons utilisé le language Javascript via Nodejs, cette technologie permet des requêtes rapides et une fluidité parfaite pour une application mobile ou WebApp.
+Pour la gestions des "vues" nous avons utilisé le moteur de template Jade.
 
 ## Getting Started
 
